@@ -95,7 +95,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-/* consolidated these css IDs into a single statement */
+/* consolidated these css classes into a single statement */
 .benefit-title img,
 .benefit-brand img,
 .benefit-cost img {
@@ -104,7 +104,7 @@ p {
     max-width: 150px;
 }
 
-/* consolidated these css IDs into a single statement */
+/* consolidated these css classes into a single statement */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -116,14 +116,14 @@ p {
     color: #ffffff;
 }
 
-/* consolidated these css IDs into a single statement */
+/* consolidated these css classes into a single statement */
 .search-engine-optimization img, 
 .online-reputation-management img, 
 .social-media-marketing img {
     max-height: 200px;
 }
 
-/* consolidated these css IDs into a single statement */
+/* consolidated these css classes into a single statement */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2{
