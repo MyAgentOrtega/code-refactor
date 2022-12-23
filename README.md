@@ -1,21 +1,23 @@
 # Code-Refactor <br/>
 
-### Description
+### <u> Description </u>
 This HTML and CSS code have been refactored to make this webpage more accesible to the visually impaired in addition to organizing and cleaning the code within for easier future development.
 
-### Notes
+### <u> Notes </u>
 - CSS notes have been added with descriptions of changes.    
-- HTML was semantically organized and syntax was updated.  
+- HTML was semantically organized and syntax was updated. 
 
 
+### <u> Screenshot </u>
+<br /><br />
 ![Horiseon Website Screenshot](./assets/images/Horiseon%20Webpage%20Preview.jpg)
   
     
-### Deployable Link to Website
+### <u> Deployable Link to Website </u>
 
 https://myagentortega.github.io/code-refactor/  
 
-### Support:  
+### <u> Support: </u>  
 
 - [MDN](https://developer.mozilla.org/en-US/)  
 
